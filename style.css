@@ -1,0 +1,13 @@
+.palla{
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  background-color: orange;
+  border-radius: 150px;
+}
+
+span{
+  line-height: 300px;
+  color: white;
+}
